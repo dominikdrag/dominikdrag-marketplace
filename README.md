@@ -14,7 +14,7 @@ Add this marketplace (run from Claude Code CLI):
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [bug-fix](https://github.com/dominikdrag/bug-fix) | Comprehensive bug investigation and fixing workflow with specialized agents for codebase exploration, root cause analysis, hypothesis testing, and fix validation | 1.0.0 |
+| [bug-fix](https://github.com/dominikdrag/bug-fix) | Comprehensive bug investigation and fixing workflow with specialized agents for codebase exploration, root cause analysis, hypothesis testing, and fix validation | 1.0.1 |
 | [feature-dev](https://github.com/dominikdrag/feature-dev) | Guided feature development with codebase understanding and architecture focus | 1.0.1 |
 
 ## Installing Plugins

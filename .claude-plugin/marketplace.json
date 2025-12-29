@@ -1,0 +1,26 @@
+{
+  "name": "dominikdrag-marketplace",
+  "owner": {
+    "name": "Dominik Drag"
+  },
+  "metadata": {
+    "description": "Personal plugin marketplace for Claude Code",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "bug-fix",
+      "source": {
+        "source": "github",
+        "repo": "dominikdrag/bug-fix"
+      },
+      "description": "Comprehensive bug investigation and fixing workflow with specialized agents for codebase exploration, root cause analysis, hypothesis testing, and fix validation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dominik Drag"
+      },
+      "tags": ["debugging", "bug-fix", "investigation", "workflow"]
+    }
+  ]
+}

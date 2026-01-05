@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Personal plugin marketplace for Claude Code",
-    "version": "1.0.25",
+    "version": "1.0.26",
     "pluginRoot": "./plugins"
   },
   "plugins": [

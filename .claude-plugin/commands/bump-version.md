@@ -3,7 +3,7 @@ name: bump-version
 description: Bump a plugin version in the marketplace and update README
 arguments:
   - name: plugin
-    description: The plugin name to update (e.g., bug-fix, feature-dev, code-explain)
+    description: The plugin name to update (e.g., bug-fix, devflow, code-explain)
     required: true
   - name: versioncom
     description: The new version number (e.g., 1.0.3)

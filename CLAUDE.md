@@ -10,7 +10,7 @@ This is a Claude Code plugin marketplace that hosts plugin metadata for distribu
 
 - `.claude-plugin/marketplace.json` - Main manifest file listing all available plugins with their metadata, versions, and GitHub source locations
 - `plugins/` - Reserved directory for plugin root (currently empty as plugins are hosted externally)
-- Plugins listed here point to external repos (e.g., `dominikdrag/bug-fix`, `dominikdrag/feature-dev`)
+- Plugins listed here point to external repos (e.g., `dominikdrag/bug-fix`, `dominikdrag/devflow`)
 
 ## Adding a New Plugin
 

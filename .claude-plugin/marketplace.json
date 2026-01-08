@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Personal plugin marketplace for Claude Code",
-    "version": "1.0.34",
+    "version": "1.0.35",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -16,7 +16,7 @@
         "repo": "dominikdrag/bug-fix"
       },
       "description": "Comprehensive bug investigation and fixing workflow with specialized agents for codebase exploration, root cause analysis, hypothesis testing, and fix validation",
-      "version": "1.1.4",
+      "version": "1.2.1",
       "author": {
         "name": "Dominik Drag"
       },
@@ -29,7 +29,7 @@
         "repo": "dominikdrag/devflow"
       },
       "description": "Guided feature development with codebase understanding and architecture focus",
-      "version": "2.1.6",
+      "version": "2.1.7",
       "author": {
         "name": "Dominik Drag"
       },

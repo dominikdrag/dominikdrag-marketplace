@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Personal plugin marketplace for Claude Code",
-    "version": "1.0.33",
+    "version": "1.0.34",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -29,7 +29,7 @@
         "repo": "dominikdrag/devflow"
       },
       "description": "Guided feature development with codebase understanding and architecture focus",
-      "version": "2.1.5",
+      "version": "2.1.6",
       "author": {
         "name": "Dominik Drag"
       },

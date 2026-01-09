@@ -14,7 +14,7 @@ Add this marketplace (run from Claude Code CLI):
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [bug-fix](https://github.com/dominikdrag/bug-fix) | Comprehensive bug investigation and fixing workflow with specialized agents for codebase exploration, root cause analysis, hypothesis testing, and fix validation | 1.2.1 |
+| [bug-fix](https://github.com/dominikdrag/bug-fix) | Comprehensive bug investigation and fixing workflow with specialized agents for codebase exploration, root cause analysis, hypothesis testing, and fix validation | 1.2.2 |
 | [devflow](https://github.com/dominikdrag/devflow) | Guided feature development with codebase understanding and architecture focus | 2.1.7 |
 | [code-explain](https://github.com/dominikdrag/code-explain) | Deep, multi-layered code explanations with context gathering, history analysis, and pattern recognition | 1.0.5 |
 
